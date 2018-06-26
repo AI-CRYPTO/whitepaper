@@ -46,3 +46,5 @@ AI Crypto is developing an AI ecosystem based on blockchain. Our primary goal is
 
 * 2018.06.15. Whitepaper version 1.52 released (Korean, English, Chinese, Rusian, Japanese, Vietnam)
 
+* 2018.06.26. Whitepaper version 1.53 released (Korean, English, Chinese, Rusian, Japanese, Vietnam)
+
